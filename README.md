@@ -6,7 +6,12 @@ These tools are freely available for use by the community. Contributions, sugges
 
 ## About Defence Logic
 
-Defence Logic specializes in creating secure, reliable, and innovative software solutions. This repository showcases open-source and public-facing utilities designed to assist users in various tasks.
+Defence Logic is a leading penetration testing company, providing comprehensive cybersecurity services including SIEM and SOC solutions. We focus on delivering secure, reliable, and innovative approaches to defend modern organisations against evolving threats.  
+This repository features our open-source and public-facing utilities, developed to assist the community and our clients in various cybersecurity and monitoring tasks.
+
+## Tool list
+
+[https://github.com/DefenceLogic/DL-Public-Tools/tree/main/terminal-logger](Terminal Logger)
 
 ## License
 
