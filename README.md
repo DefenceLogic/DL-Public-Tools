@@ -11,7 +11,7 @@ This repository features our open-source and public-facing utilities, developed 
 
 ## Tool list
 
-[https://github.com/DefenceLogic/DL-Public-Tools/tree/main/terminal-logger](Terminal Logger)
+[Terminal logger]([Terminal Logger](https://github.com/DefenceLogic/DL-Public-Tools/tree/main/terminal-logger))
 
 ## License
 
