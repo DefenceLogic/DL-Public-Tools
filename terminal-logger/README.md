@@ -6,6 +6,18 @@ A comprehensive and reliable terminal activity logging system for Kali Linux tha
 
 This tool provides professional-grade logging capabilities for penetration testers, security professionals, and anyone who needs detailed documentation of their terminal activities. It's specifically designed for client engagement documentation and evidence collection with a focus on simplicity and reliability.
 
+## Screenshots
+
+Usage:
+<img width="1139" height="389" alt="image" src="https://github.com/user-attachments/assets/4edc3adf-e008-448a-9f55-259db0bae940" />
+
+Html Report
+<img width="1137" height="1051" alt="image" src="https://github.com/user-attachments/assets/6937351c-6a3a-465f-b1a3-007ef1d917d0" />
+
+View sessions
+<img width="968" height="510" alt="image" src="https://github.com/user-attachments/assets/dcb9ae49-a90f-491e-837a-405452f320c2" />
+
+
 ## Features
 
 ### 🚀 **Simple & Reliable**
